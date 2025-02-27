@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @nikhilmuneshwar0
-- 👀 I’m interested in Software Development, Java development, Python development and backend development.
-- 🌱 I’m currently learning Java, Springboot, Hibernate, Python and SQL.
-- 💞️ I’m looking to collaborate on projects, learn,teach and help others.
+- 👋 Hi, I’m Nikhil Muneshwar
+- 👀 I can look at the world with new and fresh perspectives with the help of data.
+- 🌱 I’m proficient in Python, SQL, ML, DL and AI.
+- 💞️ I want to collaborate on projects, learn, teach and help others.
 - 📫 How to reach me nikhilmuneshwar@yahoo.com
 
 <!---
